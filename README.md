@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 💬 Ask me about Python, Django
-- 📫 How to reach me: jaloliddinmurodullayev337@gmail.com
+- 💬 Ask me about Python
+- 📫 How to reach me: jaloliddinmurodullaev@gmail.com
 
 <!--
 **jaloliddinmurodullaev/jaloliddinmurodullaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
